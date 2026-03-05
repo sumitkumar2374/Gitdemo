@@ -1,17 +1,4 @@
-# Gitdemo
-# My First Git Demo
+# My First Repository
 
-This repository contains files HTML, CSS, and JavaScript.
-
-## Features
-- Responsive design
-- Interactive navbar
-- Projects showcase
-
-## Installation
-1. Clone the repo
-2. Open `index.html` in browser
-
-## Contact
-Email: sumit@ xx
-LinkedIn:  
+This is my first GitHub repository where I explore Python coding.  
+It contains initial projects and scripts to practice programming concepts and improve my skills.
