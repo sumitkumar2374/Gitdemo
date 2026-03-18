@@ -1,8 +1,14 @@
 body{
     background-color: black;
     color: white;
+    margin: 0;
+    padding: 0;
 }
 .hero{
      display: flex;
      justify-content: center;
+}
+.footer-bottom{
+    display: flex;
+    justify-content: center;
 }
