@@ -10,10 +10,10 @@ The goal of this project is to organize and visualize the complete journey from 
 
 ## 🚀 Features
 
-* 📚 Step-by-step Web Development Roadmap
-* 🎨 Clean UI using HTML & CSS
-* ⚡ Basic interactivity with JavaScript
-* 📱 Responsive design (if applied)
+* 📚 Step-by-step Web Development Roadmap.
+* 🎨 Clean UI using HTML & CSS.
+* ⚡ Basic interactivity with JavaScript.
+* 📱 Responsive design (if applied).
 
 ---
 
@@ -71,7 +71,7 @@ The roadmap includes:
 
 * HTML5
 * CSS3
-* JavaScript (ES6)
+* JavaScript (ES6).
 
 ---
 
@@ -89,9 +89,9 @@ project-folder/
 
 ## ▶️ How to Run
 
-1. Download or clone this repository
-2. Open the project folder
-3. Double click on **index.html**
+1. Download or clone this repository.
+2. Open the project folder.
+3. Double click on **index.html**.
 
 ---
 
@@ -99,18 +99,18 @@ project-folder/
 
 This project is created for:
 
-* Learning web development basics
-* Practicing frontend skills
-* Helping beginners understand roadmap clearly
+* Learning web development basics.
+* Practicing frontend skills.
+* Helping beginners understand roadmap clearly.
 
 ---
 
 ## 📌 Future Improvements
 
-* Add animations
-* Improve UI/UX
-* Add more detailed explanations
-* Convert into React project
+* Add animations.
+* Improve UI/UX.
+* Add more detailed explanations.
+* Convert into React project.
 
 ---
 
