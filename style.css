@@ -16,4 +16,5 @@ body{
 }
 .italic{
     font-style: italic;
+    color: grey;
 }
