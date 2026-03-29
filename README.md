@@ -126,10 +126,10 @@ If you like this project, consider giving it a ⭐ on GitHub!
 
 ---
 
-## 📌 Author
-
-**Sumit Kumar**
+- **Unlocking Yolo achievement!**
 
 ---
 
-- **Unlocking Yolo achievement!**
+## 📌 Author
+
+**Mr Sumit Kumar**
