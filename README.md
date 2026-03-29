@@ -116,8 +116,8 @@ This project is created for:
 
 ## Achievements
 
-**Pair programming update 👯**
-
+**Pair programming update 👯- Mr Sumit Kumar**
+ 
 ---
 
 ## ⭐ Support
