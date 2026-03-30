@@ -97,7 +97,7 @@ project-folder/
 
 ## 🎯 Purpose
 
-This project is created for:
+- This project is created for:
 
 * Learning web development basics.
 * Practicing frontend skills.
@@ -130,7 +130,6 @@ If you like this project, consider giving it a ⭐ on GitHub!
 
 ---
 
- 
 ## 📌 Author
 
 **Mr Sumit Kumar**
