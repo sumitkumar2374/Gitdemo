@@ -11,7 +11,7 @@ The goal of this project is to organize and visualize the complete journey from 
 ## 🚀 Features
 
 * 📚 Step-by-step **Web Development Roadmap.**
-* 🎨 Clean UI using **HTML 5 & CSS 3.**
+* 🎨 ```Clean UI ``` using **HTML 5 & CSS 3.**
 * ⚡ Basic interactivity with JavaScript.
 * 📱 **Responsive** design (if applied).
 
@@ -90,7 +90,7 @@ project-folder/
 
 ## ▶️ How to Run
 
-1. Download or clone this repository.
+1. ```Download ``` or ```clone ``` this repository.
 2. Open the project folder.
 3. Double click on **index.html**.
 
@@ -100,7 +100,7 @@ project-folder/
 
 - This project is created for:
 
-* Learning web development basics.
+* Learning ```web development ``` basics.
 * Practicing frontend skills.
 * Helping beginners understand roadmap clearly.
 
@@ -123,7 +123,7 @@ project-folder/
 
 ## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub!
+If you like this project, consider giving it a ⭐ on ```GitHub! ```
 
 ---
 
@@ -133,7 +133,7 @@ If you like this project, consider giving it a ⭐ on GitHub!
 
 ## 📌 Author
 
-**Mr Sumit Kumar**
+```**Mr Sumit Kumar** ```
 
 ## Achievement
 
