@@ -101,17 +101,17 @@ project-folder/
 - This project is created for:
 
 * Learning ```web development ``` basics.
-* Practicing frontend skills.
+* Practicing frontend ```skills. ```
 * Helping beginners understand roadmap clearly.
 
 ---
 
 ## 📌 Future Improvements
 
-* Add animations.
-* Improve UI/UX.
+* Add ```animations. ```
+* Improve ```UI/UX. ```
 * Add more detailed explanations.
-* Convert into React project.
+* Convert into ```React project. ```
 
 ---
 
@@ -123,7 +123,7 @@ project-folder/
 
 ## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on ```GitHub! ```
+If you like this ```project ```, consider giving it a ⭐ on ```GitHub! ```
 
 ---
 
