@@ -23,7 +23,7 @@ The roadmap includes:
 
 1. **Basics**
 
-   * HTML
+   * HTML 5
    * CSS
    * JavaScript
 
