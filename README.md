@@ -59,6 +59,7 @@ The roadmap includes:
    * Netlify
    * Vercel
    * Render
+   * AWS
 
 9. **Advanced Topics**
 
