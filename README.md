@@ -1,11 +1,3 @@
-# Here are the commit list for conytribution graph 
-
-- 1st/2nd commit
-- 3rd commit list is for attaching some some files
-- 4th commit list if for check and preview 
-
----
-
 # 🌐 Web Development Roadmap (HTML 5, CSS 3, JavaScript Project)
 
 ## 📌 About This Project
