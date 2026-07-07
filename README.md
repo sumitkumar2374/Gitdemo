@@ -1,6 +1,7 @@
 # Here are the commit list for conytribution graph 
 
-- 1st/2nd commit 
+- 1st/2nd commit
+- 3rd commit list is for attaching some some files 
 
 ---
 
