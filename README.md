@@ -1,12 +1,3 @@
-# Here are the commit list for contribution graph
-
-- 1st/2nd commit
-- 3rd commit list for attaching some link in main
-- 4th commit list is the action in readme
-- 5th commit list is the final check and preview 
-
----
-
 # 🌐 Web Development Roadmap (HTML 5, CSS 3, JavaScript Project)
 
 ## 📌 About This Project
@@ -21,7 +12,7 @@ The goal of this project is to organize and visualize the complete journey from 
 
 * 📚 Step-by-step **Web Development Roadmap.**
 * 🎨 ```Clean UI ``` using **HTML 5 & CSS 3.**
-* ⚡ Basic interactivity with JavaScript.
+* ⚡ Basic interactivity with ```JavaScript ```.
 * 📱 **Responsive** design (if applied).
 
 ---
