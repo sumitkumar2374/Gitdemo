@@ -2,7 +2,8 @@
 
 - 1st/2nd commit
 - 3rd commit list for attaching some link in main
-- 4th commit list is the action in readme 
+- 4th commit list is the action in readme
+- 5th commit list is the final check and preview 
 
 ---
 
