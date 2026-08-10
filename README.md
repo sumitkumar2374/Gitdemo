@@ -1,13 +1,3 @@
-# Here are the commit list for contribution graph
-
-- 1st/2nd commit
-- 3rd commit list is the attaching some file in main
-- 4th commit list is the check
-- 5th commit list is the preview
-- 6th commit list is the fix files
-
----
-
 # 🌐 Web Development Roadmap (HTML 5, CSS 3, JavaScript Project)
 
 ## 📌 About This Project
