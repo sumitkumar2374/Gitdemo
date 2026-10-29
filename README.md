@@ -2,9 +2,9 @@
 
 ## 📌 About This Project
 
-This is a basic web project created using **HTML 5, CSS 3, and JavaScript** to present a structured **Web Development Roadmap** for beginners.
+This is a basic `web project` created using **HTML 5, CSS 3, and JavaScript** to present a structured **Web Development Roadmap** for beginners.
 
-The goal of this project is to organize and visualize the complete journey from **beginner to advanced web developer** in a simple and clean format.
+The goal of this project is to organize and `visualize` the complete journey from **beginner to advanced web developer** in a simple and clean format.
 
 ---
 
