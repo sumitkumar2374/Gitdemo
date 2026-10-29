@@ -11,8 +11,8 @@ The goal of this project is to organize and `visualize` the complete journey fro
 ## 🚀 Features
 
 * 📚 Step-by-step **Web Development Roadmap.**
-* 🎨 `Clean UI` using **HTML 5 & CSS 3.**
-* ⚡ Basic interactivity with `JavaScript`.
+* 🎨 ```Clean UI ``` using **HTML 5 & CSS 3.**
+* ⚡ Basic interactivity with JavaScript.
 * 📱 **Responsive** design (if applied).
 
 ---
@@ -133,7 +133,7 @@ If you like this ```project ```, consider giving it a ⭐ on ```GitHub! ```
 
 ## 📌 Author
 
-```**Mr Sumit Kumar** ```
+```Mr Sumit Kumar ```
 
 ## Achievement
 
